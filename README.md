@@ -19,6 +19,11 @@
   Bu proje <b>1 günlük</b> yoğun bir geliştirme sürecinin ürünüdür. Eğer ilgi görürse <b>istatistiksel grafikler</b> ve <b>veri analizi</b> güncellemeleri gelecektir!
 </blockquote>
 
+<blockquote>
+  <h3 style="color: #D90429;">Site Linki</h3>
+  <a style="color: #D90429;" href="https://gkaytrackerv1.netlify.app/">Gkay Tracker</a>
+</blockquote>
+
 <hr>
 
 <h3>🇬🇧 ABOUT THE PROJECT</h3>
@@ -34,6 +39,12 @@
 <blockquote>
   <h4 style="color: #D90429;">⚠️ IMPORTANT NOTE</h4>
   This project was developed in just <b>24 hours</b>. Based on community feedback, <b>statistical charts</b> and <b>data analytics</b> updates will be implemented!
+</blockquote>
+
+
+<blockquote>
+  <h3 style="color: #D90429;">Site Link</h3>
+  <a style="color: #D90429;" href="https://gkaytrackerv1.netlify.app/">Gkay Tracker</a>
 </blockquote>
 
 <hr>
