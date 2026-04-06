@@ -39,5 +39,5 @@
 <hr>
 
 <p align="center">
-  <b>Developed by Gökay • 2026</b>
+  <b>Developed by Gkay • 2026</b>
 </p>
