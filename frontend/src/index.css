@@ -1,0 +1,27 @@
+body {
+    background-color: #f8f9fa; /* Hafif gri arka plan */
+    font-family: 'Inter', sans-serif;
+}
+
+.custom-card {
+    border: none;
+    border-radius: 15px;
+    transition: transform 0.2s, box-shadow 0.2s;
+    background: #fff;
+}
+
+.custom-card:hover {
+    transform: translateY(-5px);
+    box-shadow: 0 10px 20px rgba(0,0,0,0.1);
+}
+
+.navbar-custom {
+    background: #212529 !important; /* Modern koyu gri/siyah */
+    padding: 1rem 0;
+}
+
+.btn-add {
+    border-radius: 10px;
+    padding: 10px 25px;
+    font-weight: 600;
+}
