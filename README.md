@@ -21,7 +21,7 @@
 
 <blockquote>
   <h3 style="color: #D90429;">Site Linki</h3>
-  <a target="_blank" style="color: #D90429;" href="https://gkaytrackerv1.netlify.app/">Gkay Tracker</a>
+  <a style="color: #D90429;" href="https://gkaytrackerv1.netlify.app/" target="_blank" >Gkay Tracker</a>
 </blockquote>
 
 <hr>
@@ -44,7 +44,7 @@
 
 <blockquote>
   <h3 style="color: #D90429;">Site Link</h3>
-  <a  target="_blank" style="color: #D90429;" href="https://gkaytrackerv1.netlify.app/">Gkay Tracker</a>
+  <a  style="color: #D90429;" href="https://gkaytrackerv1.netlify.app/" target="_blank">Gkay Tracker</a>
 </blockquote>
 
 <hr>
